@@ -82,7 +82,7 @@ $ bash start.sh
 ## License
 ```
 Merge Bot, Telegram Video Merge Bot
-Copyright (c) 2021  Yash Oswal <https://github.com/jishusinha>
+Copyright (c) 2021  Jishu Sinha <https://github.com/jishusinha>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
