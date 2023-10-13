@@ -470,31 +470,31 @@ async def help_msg(c: Client, m: Message):
 async def about_handler(c: Client, m: Message):
     await m.reply_text(
         text="""
-**ᴡʜᴀᴛ's ɴᴇᴡ:**
-👨‍💻 ʙᴀɴ/ᴜɴʙᴀɴ ᴜsᴇʀs
-👨‍💻 ᴇxᴛʀᴀᴄᴛ ᴀʟʟ ᴀᴜᴅɪᴏs ᴀɴᴅ sᴜʙᴛɪᴛʟᴇs ғʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ
-👨‍💻 ᴍᴇʀɢᴇ ᴠɪᴅᴇᴏ + ᴀᴜᴅɪᴏ 
-👨‍💻 ᴍᴇʀɢᴇ ᴠɪᴅᴇᴏ + sᴜʙᴛɪᴛʟᴇs
-👨‍💻 ᴜᴘʟᴏᴀᴅ ᴛᴏ ᴅʀɪᴠᴇ ᴜsɪɴɢ ʏᴏᴜʀ ᴏᴡɴ ʀᴄʟᴏɴᴇ ᴄᴏɴғɪɢ
-👨‍💻 ᴍᴇʀɢᴇᴅ ᴠɪᴅᴇᴏ ᴘʀᴇsᴇʀᴠᴇs ᴀʟʟ sᴛʀᴇᴀᴍs ᴏғ ᴛʜᴇ ғɪʀsᴛ ᴠɪᴅᴇᴏ ʏᴏᴜ sᴇɴᴅ (ɪ.ᴇ ᴀʟʟ ᴀᴜᴅɪᴏᴛʀᴀᴄᴋs/sᴜʙᴛɪᴛʟᴇs)
+**Wʜᴀᴛ's Nᴇᴡ:**
+👨‍💻 Bᴀɴ/Uɴʙᴀɴ Usᴇʀs
+👨‍💻 Exᴛʀᴀᴄᴛ Aʟʟ Aᴜᴅɪᴏs Aɴᴅ Sᴜʙᴛɪᴛʟᴇs Fʀᴏᴍ Tᴇʟᴇɢʀᴀᴍ Mᴇᴅɪᴀ
+👨‍💻 Mᴇʀɢᴇ Vɪᴅᴇᴏ + Aᴜᴅɪᴏ 
+👨‍💻 Mᴇʀɢᴇ Vɪᴅᴇᴏ + Sᴜʙᴛɪᴛʟᴇs
+👨‍💻 Uᴘʟᴏᴀᴅ Tᴏ Dʀɪᴠᴇ Usɪɴɢ Yᴏᴜʀ Oᴡɴ Rᴄʟᴏɴᴇ Cᴏɴғɪɢ
+👨‍💻 Mᴇʀɢᴇᴅ Vɪᴅᴇᴏ Pʀᴇsᴇʀᴠᴇs Aʟʟ Sᴛʀᴇᴀᴍs Oғ Tʜᴇ Fɪʀsᴛ Vɪᴅᴇᴏ Yᴏᴜ Sᴇɴᴅ (I.E Aʟʟ Aᴜᴅɪᴏᴛʀᴀᴄᴋs/Sᴜʙᴛɪᴛʟᴇs)
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-**ғᴇᴀᴛᴜʀᴇs**
-🔰 ᴍᴇʀɢᴇ ᴜᴘᴛᴏ 𝟷𝟶 ᴠɪᴅᴇᴏ ɪɴ ᴏɴᴇ 
-🔰 ᴜᴘʟᴏᴀᴅ ᴀs ᴅᴏᴄᴜᴍᴇɴᴛs/ᴠɪᴅᴇᴏ
-🔰 ᴄᴜsᴛᴏᴍs ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ
-🔰 ᴜsᴇʀs ᴄᴀɴ ʟᴏɢɪɴ ᴛᴏ ʙᴏᴛ ᴜsɪɴɢ ᴘᴀssᴡᴏʀᴅ
-🔰 ᴏᴡɴᴇʀ ᴄᴀɴ ʙʀᴏᴀᴅᴄᴀsᴛ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜsᴇʀs
+**Fᴇᴀᴛᴜʀᴇs**
+🔰 Mᴇʀɢᴇ Uᴘᴛᴏ 10 Vɪᴅᴇᴏ Iɴ Oɴᴇ 
+🔰 Uᴘʟᴏᴀᴅ As Dᴏᴄᴜᴍᴇɴᴛs/Vɪᴅᴇᴏ
+🔰 Cᴜsᴛᴏᴍs Tʜᴜᴍʙɴᴀɪʟ Sᴜᴘᴘᴏʀᴛ
+🔰 Usᴇʀs Cᴀɴ Lᴏɢɪɴ Tᴏ Bᴏᴛ Usɪɴɢ Pᴀssᴡᴏʀᴅ
+🔰 Oᴡɴᴇʀ Cᴀɴ Bʀᴏᴀᴅᴄᴀsᴛ Mᴇssᴀɢᴇ Tᴏ Aʟʟ Usᴇʀs
 		""",
         quote=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("👨‍💻Developer👨‍💻", url="https://t.me/yashoswalyo")],
+                [InlineKeyboardButton("👨‍💻 Developer 👨‍💻", url="https://t.me/CallAdminRobot")],
                 [
                     InlineKeyboardButton(
-                        "🏘Source Code🏘", url="https://github.com/yashoswalyo/MERGE-BOT"
+                        "📢 Updates", url="https://t.me/Madflix_Bots"
                     ),
                     InlineKeyboardButton(
-                        "🤔Deployed By🤔", url=f"https://t.me/{Config.OWNER_USERNAME}"
+                        "🔥 Support", url="https://t.me/MadflixBots_Support"
                     ),
                 ],
                 [InlineKeyboardButton("Close 🔐", callback_data="close")],
@@ -741,7 +741,7 @@ if __name__ == "__main__":
         with userBot:
             userBot.send_message(
                 chat_id=int(LOGCHANNEL),
-                text="Bot booted with Premium Account,\n\n  Thanks for using <a href='https://github.com/yashoswalyo/merge-bot'>this repo</a>",
+                text="Bot booted with Premium Account,\n\nThanks for using this bot</a>",
                 disable_web_page_preview=True,
             )
             user = userBot.get_me()
