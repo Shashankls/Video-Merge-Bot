@@ -1,5 +1,4 @@
 # MERGE-BOT
-### PR's Welcomed
 <br>
 
 An Telegram Bot By [Madflix Bots](https://t.me/Madflix_Bots) To Merge multiple Videos in Telegram into single video. <br>
