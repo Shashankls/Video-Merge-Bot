@@ -79,7 +79,7 @@ if os.path.exists("downloads") == False:
     os.makedirs("downloads")
 
 
-@mergeApp.on_message(filters.command(["log"]) & filters.user(Config.OWNER_USERNAME))
+@mergeApp.on_message(filters.command(["log"]) & filters.user(Config.OWNER))
 async def sendLogFile(c: Client, m: Message):
     await m.reply_document(document="./mergebotlog.txt")
     return
