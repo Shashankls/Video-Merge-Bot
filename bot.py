@@ -147,7 +147,7 @@ async def stats_handler(c: Client, m: Message):
 @mergeApp.on_message(
     filters.command(["broadcast"])
     & filters.private
-    & filters.user(Config.OWNER_USERNAME)
+    & filters.user(Config.OWNER)
 )
 async def broadcast_handler(c: Client, m: Message):
     msg = m.reply_to_message
