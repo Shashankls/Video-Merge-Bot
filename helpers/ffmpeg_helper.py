@@ -199,7 +199,7 @@ def MergeAudio(videoPath: str, files_list: list, user_id):
     muxcmd.append("copy")
     muxcmd.append("-c:s")
     muxcmd.append("copy")
-    muxcmd.append(f"downloads/{str(user_id)}/[@Madflix_Bots]_export.mkv")
+    muxcmd.append(f"downloads/{str(user_id)}/[@BACKUP_ROCKERS]_export.mkv")
 
     LOGGER.info(muxcmd)
     process = subprocess.call(muxcmd)
